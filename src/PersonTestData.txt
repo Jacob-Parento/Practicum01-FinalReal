@@ -1,0 +1,5 @@
+PersonGenerator{idNum='1', firstName='Bilbo', lastName='Baggins', title='Esq.', YoB=1060}
+PersonGenerator{idNum='2', firstName='Frodo', lastName='Baggins', title='Esq.', YoB=1120}
+PersonGenerator{idNum='3', firstName='Samwise', lastName='Gamgee', title='Esq.', YoB=1125}
+PersonGenerator{idNum='4', firstName='Peregrin', lastName='Took', title='Esq.', YoB=1126}
+PersonGenerator{idNum='5', firstName='Meridoc', lastName='Brandybuck', title='Esq.', YoB=1126}
